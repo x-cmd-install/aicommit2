@@ -1,11 +1,13 @@
 about:
-  description: A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+  description:
+  |
+    A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
   license: MIT
   homepage: https://www.npmjs.com/package/aicommit2
   head: 0f6d965
   archived: false
   latestVersion: v2.11.1
-  collectedAt: 2026-09-03T05:20:50Z
+  collectedAt: 2026-09-03T22:35:10Z
 timeline:
   created: 2024-01-30
   lastCommit: 2026-08-15
@@ -23,7 +25,7 @@ language:
   Shell: 3114
   Nix: 2273
   Ruby: 1274
-totalLine: 1016136
+totalBytes: 1016136
 recent:
   last30d:
     since: 2026-08-04
