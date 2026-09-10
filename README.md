@@ -12,6 +12,18 @@ A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, C
 x install aicommit2
 ```
 
+## Code insight
+
+Total: **51,672** lines of code across **160** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 20,069 | 2,014 | 3,532 | 145 |
+| Json | 19,627 | 0 | 0 | 3 |
+| Yaml | 11,816 | 403 | 908 | 10 |
+| Nix | 69 | 0 | 13 | 1 |
+| Sh | 64 | 18 | 19 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/tak-bro/aicommit2>
@@ -36,20 +48,11 @@ x install aicommit2
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 1 | 2 | 0 | 1 | 4 |
+| last60d | 2026-07-12 | 4 | 4 | 2 | 2 | 2 | 23 |
 | 90d | 2026-06-12 | 7 | 6 | 2 | 5 | 2 | 39 |
+| last180d | 2026-03-14 | 32 | 32 | 2 | 9 | 2 | 163 |
 | 360d | 2025-09-15 | 56 | 60 | 2 | 31 | 2 | 295 |
-
-## Code size
-
-Total: **51,672** lines of code across **160** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 20,069 | 2,014 | 3,532 | 145 |
-| Json | 19,627 | 0 | 0 | 3 |
-| Yaml | 11,816 | 403 | 908 | 10 |
-| Nix | 69 | 0 | 13 | 1 |
-| Sh | 64 | 18 | 19 | 1 |
+| last720d | 2024-09-20 | 100 | 112 | 2 | 62 | 2 | 657 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for aicommit2 lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:20Z._
