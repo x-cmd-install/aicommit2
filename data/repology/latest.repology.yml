@@ -1,0 +1,7 @@
+- repo: homebrew
+  srcname: aicommit2
+  visiblename: aicommit2
+  version: 2.11.1
+  origversion: null
+  status: unique
+  summary: Reactive CLI that generates commit messages for Git and Jujutsu with AI
