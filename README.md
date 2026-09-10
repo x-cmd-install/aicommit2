@@ -1,24 +1,64 @@
 # aicommit2
 
+[中文版本](./README.cn.md)
+
 A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
 
-- **Upstream**: <https://github.com/tak-bro/aicommit2>
-- **Homepage**: <https://www.npmjs.com/package/aicommit2>
-- **Latest release**: `v2.11.1` (2026-08-15)
-- **Last commit**: 2026-08-15
-- **License**: MIT
-- **Stars**: 528 · **Forks**: 45 · **Open issues**: 77 · **Contributors**: 25
+![aicommit2](https://repo.x-cmd.io/aicommit2.svg)
 
-## Installation
+## Install
 
 ```sh
 x install aicommit2
 ```
 
-See <https://x-cmd.com/install/aicommit2> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/tak-bro/aicommit2>
+- **Homepage**: <https://www.npmjs.com/package/aicommit2>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:25:53Z._
+- **Latest**: `v2.11.1` (2026-08-15)
+- **Last commit**: 2026-08-15
+- **Published**: 2026-08-15T00:02:34Z
+
+## Popularity
+
+- **Stars**: 528 · **Forks**: 45 · **Open issues**: 77 · **Contributors**: 25
+
+## Totals (cumulative)
+
+- **Releases**: 161 · **Merged PRs**: 180 · **Open PRs**: 2 · **Closed issues**: 75 · **Open issues**: 2 · **Commits**: 994
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 1 | 2 | 0 | 1 | 4 |
+| 90d | 2026-06-12 | 7 | 6 | 2 | 5 | 2 | 39 |
+| 360d | 2025-09-15 | 56 | 60 | 2 | 31 | 2 | 295 |
+
+## Code size
+
+Total: **51,672** lines of code across **160** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 20,069 | 2,014 | 3,532 | 145 |
+| Json | 19,627 | 0 | 0 | 3 |
+| Yaml | 11,816 | 403 | 908 | 10 |
+| Nix | 69 | 0 | 13 | 1 |
+| Sh | 64 | 18 | 19 | 1 |
+
+## Improve this data
+
+Install metadata for aicommit2 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aicommit2` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/aicommit2.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:46Z._
