@@ -4,7 +4,7 @@
 
 A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
 
-![aicommit2](https://repo.x-cmd.io/aicommit2.svg)
+![aicommit2](https://repo.x-cmd.io/aicommit2.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install aicommit2
 
 - **最新版本**: `v2.11.1` (2026-08-15)
 - **最近提交**: 2026-08-15
-- **发布时间**: 2026-08-15T00:02:34Z
 
 ## 流行度
 
@@ -61,4 +60,4 @@ aicommit2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:31:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:51:56Z._
