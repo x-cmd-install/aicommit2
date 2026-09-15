@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/370878511",
-  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/370878511/assets",
-  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/370878511/assets{?name,label}",
-  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.11.1",
-  "id": 370878511,
+  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/388190858",
+  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/388190858/assets",
+  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/388190858/assets{?name,label}",
+  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.12.0",
+  "id": 388190858,
   "author": {
     "login": "tak-bro",
     "id": 7614353,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOLLm16M4WGygv",
-  "tag_name": "v2.11.1",
+  "node_id": "RE_kwDOLLm16M4XI1KK",
+  "tag_name": "v2.12.0",
   "target_commitish": "main",
-  "name": "v2.11.1",
+  "name": "v2.12.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-15T00:02:29Z",
-  "updated_at": "2026-08-15T00:02:34Z",
-  "published_at": "2026-08-15T00:02:34Z",
+  "created_at": "2026-09-14T06:43:06Z",
+  "updated_at": "2026-09-14T06:43:10Z",
+  "published_at": "2026-09-14T06:43:10Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.11.1",
-  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.11.1",
-  "body": "## [2.11.1](https://github.com/tak-bro/aicommit2/compare/v2.11.0...v2.11.1) (2026-08-15)\n\n\n### Bug Fixes\n\n* **doctor:** report subscription-CLI providers by their opt-in signal ([bfb1ab3](https://github.com/tak-bro/aicommit2/commit/bfb1ab359c45fc5d0e7fa54a82d723d08a3f4d8c)), closes [#268](https://github.com/tak-bro/aicommit2/issues/268)\n* **doctor:** warn instead of healthy when COPILOT_SDK has no model ([864aebc](https://github.com/tak-bro/aicommit2/commit/864aebc4c2d002cfa5feba1fa77dd8b517ba3159)), closes [#268](https://github.com/tak-bro/aicommit2/issues/268)\n\n\n\n"
+  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.12.0",
+  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.12.0",
+  "body": "# [2.12.0](https://github.com/tak-bro/aicommit2/compare/v2.11.1...v2.12.0) (2026-09-14)\n\n\n### Features\n\n* worktree hook install, auto diff compression, doctor version check, rewrite --include-body ([60eb351](https://github.com/tak-bro/aicommit2/commit/60eb3511438ca2a6f189874d0baad0159b7134cb)), closes [#271](https://github.com/tak-bro/aicommit2/issues/271) [#262](https://github.com/tak-bro/aicommit2/issues/262) [#271](https://github.com/tak-bro/aicommit2/issues/271)\n\n\n\n"
 }
