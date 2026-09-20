@@ -4,7 +4,7 @@
 
 A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
 
-![aicommit2](https://repo.x-cmd.io/aicommit2.svg)
+[![x-cmd/install — aicommit2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aicommit2.svg)](https://x-cmd.com/install/aicommit2)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **51,970** lines of code across **164** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 0 | 1 | 0 | 3 |
-| last60d | 2026-07-20 | 5 | 5 | 0 | 3 | 2 | 21 |
-| 90d | 2026-06-20 | 7 | 7 | 0 | 6 | 2 | 42 |
-| last180d | 2026-03-22 | 27 | 28 | 0 | 10 | 2 | 141 |
-| 360d | 2025-09-23 | 57 | 61 | 0 | 32 | 2 | 298 |
-| last720d | 2024-09-28 | 100 | 113 | 0 | 62 | 2 | 660 |
+| 30d | 2026-08-21 | 1 | 1 | 0 | 1 | 0 | 3 |
+| last60d | 2026-07-22 | 5 | 5 | 0 | 3 | 2 | 18 |
+| 90d | 2026-06-22 | 7 | 7 | 0 | 6 | 2 | 42 |
+| last180d | 2026-03-24 | 26 | 27 | 0 | 10 | 2 | 132 |
+| 360d | 2025-09-25 | 57 | 61 | 0 | 32 | 2 | 298 |
+| last720d | 2024-09-30 | 100 | 113 | 0 | 61 | 2 | 660 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for aicommit2 lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:33:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:51:51Z._
