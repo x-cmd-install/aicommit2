@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/388190858",
-  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/388190858/assets",
-  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/388190858/assets{?name,label}",
-  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.12.0",
-  "id": 388190858,
+  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/409465887",
+  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/409465887/assets",
+  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/409465887/assets{?name,label}",
+  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.12.1",
+  "id": 409465887,
   "author": {
     "login": "tak-bro",
     "id": 7614353,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOLLm16M4XI1KK",
-  "tag_name": "v2.12.0",
+  "node_id": "RE_kwDOLLm16M4YZ_Qf",
+  "tag_name": "v2.12.1",
   "target_commitish": "main",
-  "name": "v2.12.0",
+  "name": "v2.12.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-14T06:43:06Z",
-  "updated_at": "2026-09-14T06:43:10Z",
-  "published_at": "2026-09-14T06:43:10Z",
+  "created_at": "2026-10-11T06:18:19Z",
+  "updated_at": "2026-10-11T06:18:22Z",
+  "published_at": "2026-10-11T06:18:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.12.0",
-  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.12.0",
-  "body": "# [2.12.0](https://github.com/tak-bro/aicommit2/compare/v2.11.1...v2.12.0) (2026-09-14)\n\n\n### Features\n\n* worktree hook install, auto diff compression, doctor version check, rewrite --include-body ([60eb351](https://github.com/tak-bro/aicommit2/commit/60eb3511438ca2a6f189874d0baad0159b7134cb)), closes [#271](https://github.com/tak-bro/aicommit2/issues/271) [#262](https://github.com/tak-bro/aicommit2/issues/262) [#271](https://github.com/tak-bro/aicommit2/issues/271)\n\n\n\n"
+  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.12.1",
+  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.12.1",
+  "body": "## [2.12.1](https://github.com/tak-bro/aicommit2/compare/v2.12.0...v2.12.1) (2026-10-11)\n\n\n### Bug Fixes\n\n* **core:** make the commit loop behave like git and recover failures ([#273](https://github.com/tak-bro/aicommit2/issues/273)) ([3755f45](https://github.com/tak-bro/aicommit2/commit/3755f45c2057a8c292c577163465af727733e446))\n\n\n\n"
 }
