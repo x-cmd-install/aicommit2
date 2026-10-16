@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/409465887",
-  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/409465887/assets",
-  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/409465887/assets{?name,label}",
-  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.12.1",
-  "id": 409465887,
+  "url": "https://api.github.com/repos/tak-bro/aicommit2/releases/413772518",
+  "assets_url": "https://api.github.com/repos/tak-bro/aicommit2/releases/413772518/assets",
+  "upload_url": "https://uploads.github.com/repos/tak-bro/aicommit2/releases/413772518/assets{?name,label}",
+  "html_url": "https://github.com/tak-bro/aicommit2/releases/tag/v2.14.0",
+  "id": 413772518,
   "author": {
     "login": "tak-bro",
     "id": 7614353,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOLLm16M4YZ_Qf",
-  "tag_name": "v2.12.1",
+  "node_id": "RE_kwDOLLm16M4Yqarm",
+  "tag_name": "v2.14.0",
   "target_commitish": "main",
-  "name": "v2.12.1",
+  "name": "v2.14.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-11T06:18:19Z",
-  "updated_at": "2026-10-11T06:18:22Z",
-  "published_at": "2026-10-11T06:18:22Z",
+  "created_at": "2026-10-15T12:15:44Z",
+  "updated_at": "2026-10-15T12:15:50Z",
+  "published_at": "2026-10-15T12:15:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.12.1",
-  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.12.1",
-  "body": "## [2.12.1](https://github.com/tak-bro/aicommit2/compare/v2.12.0...v2.12.1) (2026-10-11)\n\n\n### Bug Fixes\n\n* **core:** make the commit loop behave like git and recover failures ([#273](https://github.com/tak-bro/aicommit2/issues/273)) ([3755f45](https://github.com/tak-bro/aicommit2/commit/3755f45c2057a8c292c577163465af727733e446))\n\n\n\n"
+  "tarball_url": "https://api.github.com/repos/tak-bro/aicommit2/tarball/v2.14.0",
+  "zipball_url": "https://api.github.com/repos/tak-bro/aicommit2/zipball/v2.14.0",
+  "body": "# [2.14.0](https://github.com/tak-bro/aicommit2/compare/v2.13.0...v2.14.0) (2026-10-15)\n\n\n### Features\n\n* **config:** add repository project config layer ([#277](https://github.com/tak-bro/aicommit2/issues/277)) ([f5d148e](https://github.com/tak-bro/aicommit2/commit/f5d148ea3d3da7d4b97164e10a9c5dc4dbae6fb1)), closes [#265](https://github.com/tak-bro/aicommit2/issues/265)\n\n\n\n"
 }
