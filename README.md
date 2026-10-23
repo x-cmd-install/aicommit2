@@ -14,11 +14,11 @@ x install aicommit2
 
 ## Code insight
 
-Total: **54,365** lines of code across **175** files in the top 5 languages.
+Total: **54,463** lines of code across **175** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 22,762 | 2,318 | 3,949 | 160 |
+| TypeScript | 22,860 | 2,325 | 3,969 | 160 |
 | Json | 19,627 | 0 | 0 | 3 |
 | Yaml | 11,816 | 403 | 908 | 10 |
 | Nix | 69 | 0 | 13 | 1 |
@@ -32,27 +32,27 @@ Total: **54,365** lines of code across **175** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.14.0` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Latest**: `v2.14.1` (2026-10-23)
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 532 · **Forks**: 47 · **Open issues**: 80 · **Contributors**: 25
+- **Stars**: 533 · **Forks**: 47 · **Open issues**: 80 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 165 · **Merged PRs**: 184 · **Open PRs**: 0 · **Closed issues**: 79 · **Open issues**: 1 · **Commits**: 1006
+- **Releases**: 166 · **Merged PRs**: 185 · **Open PRs**: 0 · **Closed issues**: 79 · **Open issues**: 1 · **Commits**: 1009
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 3 | 0 | 1 | 1 | 9 |
-| last60d | 2026-08-23 | 4 | 4 | 0 | 2 | 1 | 12 |
-| 90d | 2026-07-24 | 8 | 8 | 0 | 6 | 1 | 29 |
-| last180d | 2026-04-25 | 20 | 19 | 0 | 11 | 1 | 88 |
-| 360d | 2025-10-27 | 53 | 54 | 0 | 28 | 1 | 259 |
-| last720d | 2024-11-01 | 100 | 112 | 0 | 62 | 1 | 655 |
+| 30d | 2026-09-23 | 4 | 4 | 0 | 1 | 1 | 0 |
+| last60d | 2026-08-24 | 5 | 5 | 0 | 2 | 1 | 0 |
+| 90d | 2026-07-25 | 9 | 9 | 0 | 6 | 1 | 0 |
+| last180d | 2026-04-26 | 20 | 20 | 0 | 11 | 1 | 0 |
+| 360d | 2025-10-28 | 54 | 53 | 0 | 27 | 1 | 0 |
+| last720d | 2024-11-02 | 100 | 113 | 0 | 62 | 1 | 658 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for aicommit2 lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:32:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:37:49Z._
