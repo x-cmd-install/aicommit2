@@ -37,7 +37,7 @@ Total: **54,711** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 532 · **Forks**: 48 · **Open issues**: 80 · **Contributors**: 26
+- **Stars**: 532 · **Forks**: 47 · **Open issues**: 80 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **54,711** lines of code across **177** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 6 | 5 | 0 | 2 | 0 | 17 |
-| last60d | 2026-08-30 | 7 | 7 | 0 | 3 | 0 | 20 |
-| 90d | 2026-07-31 | 10 | 10 | 0 | 5 | 0 | 35 |
-| last180d | 2026-05-02 | 21 | 22 | 0 | 12 | 0 | 92 |
-| 360d | 2025-11-03 | 55 | 55 | 0 | 27 | 0 | 261 |
-| last720d | 2024-11-08 | 100 | 115 | 0 | 62 | 0 | 663 |
+| 30d | 2026-09-30 | 6 | 5 | 0 | 2 | 0 | 17 |
+| last60d | 2026-08-31 | 7 | 7 | 0 | 3 | 0 | 20 |
+| 90d | 2026-08-01 | 10 | 10 | 0 | 5 | 0 | 35 |
+| last180d | 2026-05-03 | 21 | 22 | 0 | 12 | 0 | 92 |
+| 360d | 2025-11-04 | 55 | 53 | 0 | 27 | 0 | 261 |
+| last720d | 2024-11-09 | 100 | 114 | 0 | 62 | 0 | 663 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for aicommit2 lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:38:25Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:36:14Z._
